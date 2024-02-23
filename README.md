@@ -41,7 +41,7 @@
   <td width="50%" align="center">
     <p align="center">
      <a href="https://gisellesoledad.github.io/tprickandmorty" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/gisellesoledad/gisellesoledad/main/image/rickmortyweb.jpg"   alt="Rick and Morty" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/gisellesoledad/tprickandmorty" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -50,7 +50,7 @@
 <td width="50%" align="center">
     <p align="center">
      <a href="https://gisellesoledad.github.io/Porfolio" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/gisellesoledad/gisellesoledad/main/image/portfolio.jpg"   alt="Portfolio" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/gisellesoledad/Porfolio" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
